@@ -98,7 +98,7 @@ Voici un exemple de test avec Postman:
 
 Une interface web simple permet de tester le service de chat:
 
-![Test Web Interface](image/webtest.png)
+![Test Web Interface](image/webtestt.png)
 
 ## Fonctionnalités implémentées
 
